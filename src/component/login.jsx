@@ -4,7 +4,7 @@ function login() {
     <div className={style.container}>
       <div className={style.leftDiv}>
         <video
-          src="../../public/playback.mp4"
+          src="/playback.mp4"
           autoPlay={true}
           loop
           muted
